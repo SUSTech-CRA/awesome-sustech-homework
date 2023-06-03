@@ -28,7 +28,8 @@ https://github.com/SamuelHuang2019/ss-project
 
 #### 2022S
 
-https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab ![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab)
+https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab
+![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab)
 
 ## EE208 工程电磁场
 
@@ -36,7 +37,8 @@ https://github.com/Gralerfics/SUSTech-EE205-Signals-and-Systems-Lab ![](https://
 
 #### 2020S
 
-https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab/ ![](https://img.shields.io/github/last-commit/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab)
+https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab/
+![](https://img.shields.io/github/last-commit/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab)
 
 #### 2020F
 
@@ -45,7 +47,8 @@ https://github.com/SamuelHuang2019/EEF-lab
 
 #### 2022F
 
-https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory ![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory)
+https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory
+![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory)
 
 ## EE326 数字图像处理
 
@@ -62,6 +65,11 @@ https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB
 https://github.com/kommunium/dip-lab
 ![](https://img.shields.io/github/last-commit/kommunium/dip-lab)
 
+#### 2023S
+
+https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Laboratory
+![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Laboratory)
+
 ### Project
 
 #### 2019S
@@ -77,6 +85,22 @@ https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project
 https://github.com/kommunium/dip-project-stegano
 ![](https://img.shields.io/github/last-commit/kommunium/dip-project-stegano)
 
+## EE332 数字系统设计
+
+### Lab & Assignment
+
+#### 2023S
+
+https://github.com/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory
+![](https://img.shields.io/github/last-commit/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory)
+
+### Project
+
+#### 2023S
+
+https://github.com/Gralerfics/FmcPGA
+![](https://img.shields.io/github/last-commit/Gralerfics/FmcPGA)
+
 ## EE341 集成电路前沿-微处理器设计
 
 ### 2020F
@@ -91,9 +115,15 @@ https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Mic
 https://github.com/BarryZou/EE346-Capstone-Project
 ![](https://img.shields.io/github/last-commit/BarryZou/EE346-Capstone-Project)
 
-
 https://github.com/readypeng/ee346_remote_pc_catkin_ws
 ![](https://img.shields.io/github/last-commit/readypeng/ee346_remote_pc_catkin_ws)
+
+## EE368 机器人运动与控制方法
+
+### 2023S
+
+https://github.com/Gralerfics/TrackingWriting
+![](https://img.shields.io/github/last-commit/Gralerfics/TrackingWriting)
 
 ## SME306 先进数字CMOS集成电路设计
 
